@@ -3,7 +3,7 @@ import csv
 from datetime import datetime
 
 # Replace this with your Personal Access Token
-ACCESS_TOKEN = 'l__ovtf_j7EtiYdarzGCOQtMJG4xBL7X-EfXFQY22S0'
+ACCESS_TOKEN = ''
 
 # Replace this with the name of your budget
 TARGET_BUDGET_NAME = 'Budget 2024'
