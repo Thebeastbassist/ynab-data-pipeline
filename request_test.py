@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "l__ovtf_j7EtiYdarzGCOQtMJG4xBL7X-EfXFQY22S0"
+TOKEN = ""
 url = "https://api.ynab.com/v1/budgets"
 
 headers = {
